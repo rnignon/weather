@@ -1,2 +1,2 @@
 # Weather
-### [Live Server](https://rnignon.github.io/weather/dist/)
+### [Live server](https://rnignon.github.io/weather/dist/)
